@@ -1,0 +1,27 @@
+[
+    {
+        "filename": "sano1.jpeg",
+        "class": "NORMAL",
+        "description": "Pulmones despejados, sin signos de consolidación o efusión."
+    },
+    {
+        "filename": "malo1.jpeg",
+        "class": "PATOLOGIA",
+        "description": "Consolidación en el lóbulo inferior derecho, compatible con Neumonía."
+    },
+    {
+        "filename": "malo2.jpeg",
+        "class": "PATOLOGIA",
+        "description": "Masa grande y densa en el lóbulo superior, sugestivo de Cáncer de pulmón."
+    },
+    {
+        "filename": "malo3.jpeg",
+        "class": "PATOLOGIA",
+        "description": "Masa grande y densa en el lóbulo superior, sugestivo de Cáncer de pulmón."
+    },
+    {
+        "filename": "malo4.jpeg",
+        "class": "PATOLOGIA",
+        "description": "Masa grande y densa en el lóbulo superior, sugestivo de Cáncer de pulmón."
+    }
+]

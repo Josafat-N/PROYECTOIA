@@ -1,0 +1,30 @@
+# Librerías esenciales para el funcionamiento del modelo y la aplicación
+
+# 1. TensorFlow (Keras): El motor de Machine Learning y CNN
+# Usa la versión que has estado utilizando. Si estás en Python 3.13, necesitarás una versión reciente.
+# Si estás usando una versión estable popular (como 2.15 o 2.16), especifícala:
+tensorflow==2.16.1 
+
+# 2. Streamlit: La librería para la interfaz de usuario web
+streamlit==1.34.0
+
+# 3. NumPy: Necesario para manejar arrays y cálculos matemáticos (fundamental para ML)
+numpy==1.26.4
+
+# 4. Scikit-learn (sklearn): Usada para el modelo NearestNeighbors (Búsqueda Semántica)
+scikit-learn==1.4.2
+
+# 5. Pandas: A menudo útil para cargar y manejar datos (aunque no se ve explícitamente en el código final)
+pandas==2.2.2
+
+# 6. Pydicom: Necesario si estás leyendo archivos .dcm (DICOM)
+# Si no usas archivos .dcm y solo .jpg/.png, puedes omitirlo.
+pydicom==2.4.4
+
+# 7. Pillow (PIL): Usada indirectamente para procesamiento de imágenes por Streamlit y Keras
+Pillow==10.3.0
+
+primero la IA 
+#python .\ia-salud-project\src\train_cnn.py
+Luego el grafico y las ia
+#python -m streamlit run app_streamlit.py
